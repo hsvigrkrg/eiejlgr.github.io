@@ -52,12 +52,13 @@ img { border: 5px solid #000000;}
 nav a{
     color: #200202;
     display:-moz-inline-box ;
+    font-size: 15px;
     margin: auto 2%;
-    width :22%;
+    width :10%;
     height: 5%;
     border-radius: 5px;
     text-decoration: none;
-    padding: 2% 5%;
+    padding: 2% 1%;
     text-align: center;
     background-color: rgba(255,255,255,0.25);
 }
